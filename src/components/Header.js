@@ -34,7 +34,10 @@ const Header = (props) => {
 				We provide a GitHub repository containing the codes to reproduce the experiments of the paper.
 				The ways to run the codes and reproduce the results are described in the README.
 			</p>
-			<p className="w-3/5 mx-auto leading-relaxed mt-6"></p>
+			<p className="w-3/5 mx-auto leading-relaxed mt-10"></p>
+			<br/>
+			<br/>
+			<br/>
 		</div>
 	)
 };
