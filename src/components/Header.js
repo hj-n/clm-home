@@ -20,7 +20,7 @@ const Header = (props) => {
 				<h4 className="font-medium text-xl my-2">1. Datasets with CLM Scores (<a href="http://hyeonword.com/clm-datasets/" className="text-sky-600 hover:underline">Link</a>)</h4>
 				The website provides the 96 publicly available datasets with a corresponding CLM score and a download link to the dataset. We also provided the CLM rank of datasets,
 				along with a brushable chart that enables quick filtering of the datasets based on their CLM score. Entire datasets are in both compressed (.bin) and NumPy (.npy) formats.
-				To download entire datasets at once, refer to <a href="https://github.com/hj-n/ext-clustering-validation-datasets" className="text-sky-600 hover:underline">our dataset repository</a>.
+				To download entire datasets at once, refer to <a href="https://github.com/hj-n/labeled-datasets" className="text-sky-600 hover:underline">our dataset repository</a>.
 			</p>
 			<p className="w-3/5 mx-auto leading-relaxed mt-6">
 				<h4 className="font-medium text-xl my-2"> 2. Implementation of Between-dataset Calinski-Harabasz Index (<a href="https://github.com/hj-n/btw-dataset-internal-measures" className="text-sky-600 hover:underline">Link</a>)</h4>
