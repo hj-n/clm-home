@@ -25,7 +25,7 @@ const Header = (props) => {
 			<p className="w-3/5 mx-auto leading-relaxed mt-6">
 				<h4 className="font-medium text-xl my-2"> 2. Implementation of Between-dataset Calinski-Harabasz Index (<a href="https://github.com/hj-n/btw-dataset-internal-measures" className="text-sky-600 hover:underline">Link</a>)</h4>
 				The above link connects to the GitHub repository containing the implementation of the between-dataset Calinski-Harabasz index.
-				We packaged the implementation as a python package named 'btwim' (Abbreviation of between-dataset internal cluster measure) served via PyPI.
+				We packaged the implementation as a python package named 'btwim' (Abbreviation of between-dataset internal validation measure) served via PyPI.
 				You can apply the proposed measure by just installing and importing the package. Detailed Instructions are provided in README.
 
 			</p>
