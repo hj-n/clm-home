@@ -23,7 +23,7 @@ const Header = (props) => {
 				To download entire datasets at once, refer to <a href="https://github.com/hj-n/labeled-datasets" className="text-sky-600 hover:underline">our dataset repository</a>.
 			</p>
 			<p className="w-3/5 mx-auto leading-relaxed mt-6">
-				<h4 className="font-medium text-xl my-2"> 2. Implementation of the adjusted IVMs (<a href="https://github.com/hj-n/btw-dataset-internal-measures" className="text-sky-600 hover:underline">Link</a>)</h4>
+				<h4 className="font-medium text-xl my-2"> 2. Implementation of the adjusted IVMs (<a href="https://github.com/hj-n/clm" className="text-sky-600 hover:underline">Link</a>)</h4>
 				The above link connects to the GitHub repository containing the implementation of the adjusted IVMs.
 				We packaged the implementations as a python package named 'adj-ivm' served via PyPI.
 				You can apply the proposed measure by just installing and importing the package. Detailed Instructions are provided in README.
