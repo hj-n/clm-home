@@ -95,7 +95,7 @@ const Header = (props) => {
 					<div className="bg-white p-8 rounded-lg mb-8">
 						<div className="flex justify-center mb-8">
 							<img 
-								src="./clm-home/assets/methodology_flowchart.svg" 
+								src=".//assets/methodology_flowchart.svg" 
 								alt="Methodology flowchart for adjusted IVMs"
 								className="max-w-full h-auto"
 							/>
@@ -106,7 +106,7 @@ const Header = (props) => {
 						<h3 className="text-3xl font-bold mb-6 text-center">Comparison: Original vs. Adjusted Calinski-Harabasz Index</h3>
 						<div className="flex justify-center mb-6">
 							<img 
-								src="./clm-home/assets/comparison_ch_cha.png" 
+								src="./assets/comparison_ch_cha.png" 
 								alt="Comparison between original and adjusted Calinski-Harabasz index"
 								className="max-w-full h-auto"
 								// make it 70% of width
